@@ -18,3 +18,6 @@ Benefits:
    --> Compliance: Ensures that the organization complies with labor laws and tax regulations.
    --> Employee Satisfaction: The self-service portal empowers employees to access their information easily.
    --> Cost Savings: Reduces the cost associated with manual payroll processing and potential errors.        
+
+![Screenshot 2023-09-19 223420](https://github.com/Rudra267/Employe-Management-System/assets/122002449/7660a9ed-4319-4f35-a8df-6f9be724d0fd)
+![Screenshot 2023-09-20 000424](https://github.com/Rudra267/Employe-Management-System/assets/122002449/a3053d21-956a-4430-ac6c-94728c85981b)
